@@ -40,7 +40,7 @@
     "homepage": "https://position2.github.io/jQuery-Inline-Popup/demo/",
     "main": "dist/jquery-inline-popup.js",
     "dependencies": {
-        "jquery": ">=1.8"
+        "jquery": ">=3.7.0"
     },
     "repository": {
         "type": "git",
